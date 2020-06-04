@@ -1,5 +1,8 @@
-####jupyter notebook####
+#### jupyter notebook ####
 .ipynb_checkpoints/
 
-####MacOS###
+#### MacOS ####
 .DS_Store
+
+#### PowerPoint ####
+*.pptx
