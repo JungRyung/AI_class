@@ -6,3 +6,6 @@
 
 #### PowerPoint ####
 *.pptx
+
+#### Python cache folder ####
+__pycache__/
