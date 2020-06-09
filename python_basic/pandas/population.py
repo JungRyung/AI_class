@@ -15,11 +15,13 @@ def get_list(list_data):
 			tmp.append(list_tmp[i][j])
 		list_data.append(tmp)
 
-def get_dict(list_data, keys, dict_data):
-	area = get_area(list_data[0])
-	dict_data.update({keys[0]:area})
+# def get_dict(list_data, keys, dict_data):
+# 	area = get_area(list_data[0])
+# 	dict_data.update({keys[0]:area})
 
-	for i in range(1,7):
-		if i==3 or i==6:
-			data = del_com
+# 	for i in range(1,7):
+# 		if i==3 or i==6:
+# 			data = del_commma(list_data[i],'float')
+# 		else:
+
 
