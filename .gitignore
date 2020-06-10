@@ -9,3 +9,6 @@
 
 #### Python cache folder ####
 __pycache__/
+
+#### Google Maps API Key ####
+googlemapskey.txt
