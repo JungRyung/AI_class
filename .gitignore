@@ -12,3 +12,7 @@ __pycache__/
 
 #### Google Maps API Key ####
 googlemapskey.txt
+
+#### DataSet ####
+human_activity/
+santander-customer-satisfaction/
