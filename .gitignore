@@ -23,3 +23,6 @@ model/
 #### DATA ####
 data/
 dataset/
+
+#### Dogs-vs-Cats ####
+dogs-vs-cats/
