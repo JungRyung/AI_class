@@ -26,3 +26,6 @@ dataset/
 
 #### Dogs-vs-Cats ####
 dogs-vs-cats/
+
+#### ZIP File ####
+*.zip
